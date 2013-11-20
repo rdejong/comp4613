@@ -1,0 +1,1 @@
+labTag:inputForm lastQuery = "${lastQueryInput}"/>
